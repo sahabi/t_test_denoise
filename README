@@ -1,0 +1,16 @@
+File
+Each row is one trial.
+Each column is the same algorithm, with name given in first row (matches the paper).
+
+Filenames:
+format: typeXY.csv
+explanation:
+type: times: table of time of detection for each trial and algorithm.
+      error: table of error rate at time of detection for each trial and algorithm.
+X: 68  : real data, 
+   600 : simulation data.
+Y: empty: basic algorithms A to G
+   c: the combined algorithms E+F+G etc.
+   
+
+
